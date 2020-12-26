@@ -1,19 +1,17 @@
- __  __   _____   ____  _    _          _   _   ______      _____   ____   ____   ____  _    _ _____ 
- |  \/  | |  __ \ / __ \| |  | |   /\   | \ | | |  ____/\   |  __ \ / __ \ / __ \ / __ \| |  | |_   _|
- | \  / | | |__) | |  | | |__| |  /  \  |  \| | | |__ /  \  | |__) | |  | | |  | | |  | | |  | | | |  
- | |\/| | |  _  /| |  | |  __  | / /\ \ | . ` | |  __/ /\ \ |  _  /| |  | | |  | | |  | | |  | | | |  
- | |  | |_| | \ \| |__| | |  | |/ ____ \| |\  | | | / ____ \| | \ \| |__| | |__| | |__| | |__| |_| |_ 
- |_|  |_(_)_|  \_\\____/|_|  |_/_/    \_\_| \_| |_|/_/    \_\_|  \_\\____/ \____/ \___\_\\____/|_____|
-                                                                                                      
- Bank-Management-System-cpp
- 
+![](https://github.com/LOL-32/Bank-Mgt-System-DS-Cpp/blob/master/Bank%20Management%20System%20-%20DS.png)
 
- Detail of project :
-              (Link will Update soon !!!)
-              
- Video  of Project :  
-             (Link will Update soon !!!)
+# **Bank Management System - Data Structures** :
+
+### **Language** : C++
+
+### **Description** :
+
+     Blog               : https://rohanfarooqui.wordpress.com/2019/05/02/bank-management-system-data-structures/#more-710
+
+     Demo (video Link)  : https://www.youtube.com/watch?v=Myn-1rIixgg
 
 
-Thanks
-M.ROHAN FAROOQUI ©
+### **To Run this Code** :
+
+    * Just Install Cpp Compiler 
+    * Run "Untitled1.cpp" file 😊
