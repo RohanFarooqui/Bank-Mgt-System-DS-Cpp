@@ -6,9 +6,9 @@
 
 ### **Description** :
 
-     Blog               : https://rohanfarooqui.wordpress.com/2019/05/02/bank-management-system-data-structures/#more-710
+   Blog               : https://rohanfarooqui.wordpress.com/2019/05/02/bank-management-system-data-structures/#more-710
 
-     Demo (video Link)  : https://www.youtube.com/watch?v=Myn-1rIixgg
+   Demo (video Link)  : https://www.youtube.com/watch?v=Myn-1rIixgg
 
 
 ### **To Run this Code** :
