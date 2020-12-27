@@ -1,6 +1,6 @@
 ![](https://github.com/LOL-32/Bank-Mgt-System-DS-Cpp/blob/master/Bank%20Management%20System%20-%20DS.png)
 
-# **Bank Management System - Data Structures** :
+# **Bank Management System - Data Structures**
 
 ### **Language** : C++
 
